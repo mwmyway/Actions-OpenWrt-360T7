@@ -15,4 +15,4 @@
 
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git easymesh https://github.com/theosoft-git/luci-app-easymesh' >>feeds.conf.default
+echo 'src-git easymesh https://github.com/theosoft-git/luci-app-easymesh.git' >>feeds.conf.default
